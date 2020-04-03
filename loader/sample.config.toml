@@ -1,0 +1,11 @@
+[[Tasks]]
+  Connections = 10
+  Delay = "1s"
+  Query = "TopN(model, n=5)"
+  URL = "http://localhost:10101/index/equipment/query"
+
+[[Tasks]]
+  Connections = 10
+  Delay = "1s"
+  Query = "TopN(model, n=5)"
+  URL = "http://localhost:10101/index/equipment/query"
